@@ -1,0 +1,12 @@
+D:\SoftwareDeveloper\Project\XamarinFormIntroduction\Intro\Intro\bin\Debug\Intro.dll
+D:\SoftwareDeveloper\Project\XamarinFormIntroduction\Intro\Intro\bin\Debug\Intro.pdb
+D:\SoftwareDeveloper\Project\XamarinFormIntroduction\Intro\Intro\bin\Debug\Xamarin.Forms.Core.dll
+D:\SoftwareDeveloper\Project\XamarinFormIntroduction\Intro\Intro\bin\Debug\Xamarin.Forms.Platform.dll
+D:\SoftwareDeveloper\Project\XamarinFormIntroduction\Intro\Intro\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\SoftwareDeveloper\Project\XamarinFormIntroduction\Intro\Intro\bin\Debug\Xamarin.Forms.Core.xml
+D:\SoftwareDeveloper\Project\XamarinFormIntroduction\Intro\Intro\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\SoftwareDeveloper\Project\XamarinFormIntroduction\Intro\Intro\obj\Debug\Intro.csprojResolveAssemblyReference.cache
+D:\SoftwareDeveloper\Project\XamarinFormIntroduction\Intro\Intro\obj\Debug\Intro.dll
+D:\SoftwareDeveloper\Project\XamarinFormIntroduction\Intro\Intro\obj\Debug\Intro.pdb
+D:\SoftwareDeveloper\Project\XamarinFormIntroduction\Intro\Intro\obj\Debug\Intro.dll.mdb
+D:\SoftwareDeveloper\Project\XamarinFormIntroduction\Intro\Intro\bin\Debug\Intro.dll.mdb
